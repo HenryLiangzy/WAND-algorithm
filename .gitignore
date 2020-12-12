@@ -1,0 +1,15 @@
+# for OS
+.DS_Store
+
+# for complier
+__pycache__
+.vscode
+
+# for test file
+
+
+# for report part
+*.pdf
+*.tex
+*.gz
+
